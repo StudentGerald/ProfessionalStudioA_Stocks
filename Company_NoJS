@@ -1,0 +1,133 @@
+<html>
+<head>
+	<meta charset="utf-8" />
+	<link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+	
+		<div class="container">
+			<div class="nav-wrapper">
+				<div class="left-side">
+					<div class="nav-link-wrapper">
+						<a href="testHome.html">Go back</a>
+					</div>
+				</div>
+				<div class="right-side">
+					<div class="brand">
+						The Stock Trading Helper
+					</div>
+				</div>
+			</div>
+			
+		</div>
+		<div class="background">
+		<section class="summary">
+			<h2>Executive Summary</h2>
+			<p>Google <b>Market Cap</b> as of May 17, 2021 is <b>$1526.89B</b>.</p>
+			<p>Alphabet Inc. provides online advertising services in the United States, Europe, the Middle East, Africa, the Asia-Pacific, Canada, and Latin America.</p>
+		</section>
+	    <section class="snowflake">                           
+	    	<p>Snowflake Graph Here</p>
+	    </section>
+		
+		<section class="pter">
+			<h2>Price to Earnings Ratio</h2>
+			<p>The price to earnings ratio is calculated by taking the latest closing price and dividing it by the most recent earnings per share (EPS) number.</p> 
+			<p>The PE ratio is a simple way to assess whether a stock is over or under valued and is the most widely used valuation measure.</p> 
+			<p>Alphabet PE ratio as of May 17, 2021 is <b>30.33</b>.</p>
+			<br>
+		</section>
+
+		<section class="pter_graph">                        
+			<p>Price to Earnings Ratio Graph Here</p>
+		</section>
+
+	<section class="pe_results">
+		<h3>Observations</h3>
+		<p><b>PE vs Industry:</b> Google is <b>good</b> value based on its PE Ratio <b>30</b> compared to the US Interactive Media and Services industry average <b>36</b>.</p>
+		<p><b>PE vs Market:</b> Google is <b>poor</b> value based on its PE Ratio <b>30</b> compared to the US market <b>20</b>.</p>
+	</section>
+	<br>
+	<section class="ptbr">
+		<h2>Price to Book Ratio</h2>
+		<p>The Price to Book ratio is used to compare a company&#39;s current market price to its book value. This ratio is strongly preferred by conservative investors.</p>
+		<p>Alphabet PB ratio as of May 17, 2021 is <b>6.64</b>.</p>
+	</section>
+	<section class="ptbr_graph">
+		<p>Price to Book Ratio Graph Here</p>
+	</section>
+	
+	<section class="pb_results">
+		<h3>Observations</h3>
+		<p><b>PB vs Industry:</b> Google is <b>overvalued</b> based on its PB Ratio <b>6.7</b> compared to the industry average <b>3.7</b>.</p>
+	</section>
+	<br>
+	<section class="annual_revenue">
+		<h2>Annual Revenue over 10 Years</h2>
+		<p>Revenue can be defined as the amount of money a company receives from its customers in exchange for the sales of goods or services.</p> 
+		<p>Revenue is the top line item on an income statement from which all costs and expenses are subtracted to arrive at net income.</p>
+	</section>
+	<section class="ar_graph">
+		<p>Annual Revenue Graph Here</p>
+	</section>
+	
+	<section class ="annual_result">
+		<h3>Observations</h3>
+		<p>Google&#39;s <b>annual revenue</b> for 2020 was <b>$182.527B</b>, a <b>12.77%</b> increase from 2019.</p>
+	</section>
+
+	<br>
+	<b></b>
+	<section class ="assets_liability">
+		<h2>Assets and Liabilities</h2>
+		<h3>Total Assets</h3>
+		<p>Total assets can be defined as the sum of all assets on a company&#39;s balance sheet.</p>
+		<p>Google&#39;s total assets from <b>2006</b> to <b>2021</b>.</p> 
+	</section>
+
+	<section class="assets_graph">
+		<p>Total Assets Graph Here</p>
+	</section>
+	
+	<section class ="total_assets_result">
+		<h3>Observations</h3>
+		<p>Alphabet total assets for 2020 were <b>$319.616B</b>, a <b>15.84%</b> increase from 2019.</p> 
+	</section>
+	<br>
+	<section class ="total_liability">
+		<h3>Total Liabilities</h3>
+		<p>Total liabilities can be defined as the total value of all possible claims against the corporation.</p>
+		<p>Google&#39;s total liabilities from <b>2006</b> to <b>2021</b>.</p>
+	</section>
+
+	<section class="liability_graph">
+		<p>Liability Graph Here</p>
+	</section>
+
+	<section class="total_liability_result">
+		<h3>Observations</h3>
+		<p>Alphabet total liabilities for 2020 were <b>$97.072B</b>, a <b>30.36%</b> increase from 2019.</p>
+	</section>
+
+	<br>
+	<section class ="dividend">
+		<h2>Dividend</h2>
+		<p><b>Information Unavailable</b></p>
+		<p>The current dividend payout for Google as of May 17, 2021 is <b>$0.00M</b>.</p> 
+		<p>The current dividend yield for Alphabet as of May 17, 2021 is <b>0.00%</b>.</p>
+	</section>
+	<br>
+	<br>
+	<br>
+	<section class="DEMO">
+		<h2>Demonstration using HTML, CSS and Python Plotly</h2>
+	</section>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+</body>
+</html>
