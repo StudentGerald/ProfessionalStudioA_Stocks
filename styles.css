@@ -1,10 +1,10 @@
 /* Master styles */
-/*
+
 .background
 {
-	background-color: lightblue;
+	background-color: #E0FFFF;
 }
-*/
+
 body
 {
 	font-family: "Lato", sans-serif;
@@ -80,13 +80,37 @@ body
 
 .homeInfo
 {
-	margin-left: 38px;
+	margin-left: 76px;
+}
+
+.google_link
+{
+	margin-left: 100px
 }
 
 .aboutInfo
 {
 	margin-left: 38px;
+	width: 800px;
 }
+
+.home_about
+{
+	margin-left: 76px;
+	max-width: 350px;
+}
+
+.stock-image
+{
+	margin-right: 76px;
+	width: 792px;
+	height: 446px;
+	background-image: url(https://i.kym-cdn.com/entries/icons/facebook/000/029/959/Screen_Shot_2019-06-05_at_1.26.32_PM.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+/* Company.html CSS*/
 
 .snowflake
 {
